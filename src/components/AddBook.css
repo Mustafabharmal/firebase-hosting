@@ -1,0 +1,21 @@
+.add-book-container {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .add-book-container h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .add-book-container form {
+    width: 100%;
+  }
+  
+  .add-book-container .form-group {
+    margin-bottom: 20px;
+  }
+  
